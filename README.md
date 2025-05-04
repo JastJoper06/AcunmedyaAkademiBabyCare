@@ -38,9 +38,11 @@ Kullanıcı deneyimini ön planda tutan arayüz:
 
 
 
-##ANA SAYFA
+**ANA SAYFA**
 
 
+
+![Ekran görüntüsü 2025-05-04 195450](https://github.com/user-attachments/assets/4a02e309-b1b8-4acc-a932-5de02f3d2afa)
 
 
 
