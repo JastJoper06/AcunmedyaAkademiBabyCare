@@ -34,3 +34,13 @@ Kullanıcı deneyimini ön planda tutan arayüz:
 - 🎨 CSS ile özelleştirilmiş stil yönetimi
 - 🅱️ Bootstrap bileşenleri
 - ⚡ JavaScript işlevselliği
+
+
+
+
+**ANA SAYFA**
+
+
+
+
+
