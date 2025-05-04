@@ -12,7 +12,7 @@ Yönetici Paneli: Kapsamlı CRUD (Ekleme, Okuma, Güncelleme, Silme) işlemleri 
 👶 Öğrenci kayıt ve bilgi yönetimi
 
 Ayrıca 📊 detaylı istatistiksel raporlar ile kreş operasyonlarını etkili şekilde izleyebilirsiniz.
-Veli ve Ziyaretçi Arayüzü
+**Veli ve Ziyaretçi Arayüzü**
 
 🎀 Şık ve modern tasarım
 🎯 Tüm cihazlara uyumlu responsive yapı
