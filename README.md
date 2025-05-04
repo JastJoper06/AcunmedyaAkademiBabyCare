@@ -1,9 +1,9 @@
-#**👶🏻🎨BabyCare-Kreş Yönetim Sistemi**
+**👶🏻🎨BabyCare-Kreş Yönetim Sistemi**
 
-#**Proje Hakkında**
+**Proje Hakkında**
 BabyCare-Kreş, AkademiQ bünyesinde Murat Yücedağ koordinatörlüğünde Münire Çelikbilek tarafından verilen "C# ile Programlamaya Giriş" eğitimi kapsamında geliştirdiğim 3. projedir.
 
-#**Sistem Bileşenleri**
+**Sistem Bileşenleri**
 Yönetici Paneli: Kapsamlı CRUD (Ekleme, Okuma, Güncelleme, Silme) işlemleri ile donatılmış admin paneli sayesinde:
 
 👩‍🏫 Öğretmen kadrosu yönetimi
@@ -19,7 +19,7 @@ Veli ve Ziyaretçi Arayüzü
 🌟 Kreş hakkında güncel bilgiler
 🗓️ Eğitim programları ve etkinlik detayları
 
-#**Teknoloji Altyapısı**
+**Teknoloji Altyapısı**
 Geliştirme Ortamı
 
 🖥️ ASP.NET Core Framework
@@ -27,25 +27,25 @@ Geliştirme Ortamı
 🧩 Code First yaklaşımı
 🗄️ Microsoft SQL Server (MSSQL) veritabanı
 
-#**Arayüz Teknolojileri**
+**Arayüz Teknolojileri**
 
 🌐 HTML
 🎨 CSS
 🅱️ Bootstrap
 ⚡ JavaScript
 
-#**Veri İşleme**
+**Veri İşleme**
 
 🔍 LINQ sorguları
 
-#**Kurulum ve Çalıştırma**
+**Kurulum ve Çalıştırma**
 
 Projeyi klonlayın
 Gerekli paketleri yükleyin
 Veritabanı bağlantısını yapılandırın
 Uygulamayı başlatın
 
-#**Geliştirici Notları**
+**Geliştirici Notları**
 Bu proje, kreş yönetim süreçlerini dijitalleştirmek ve modernize etmek amacıyla geliştirilmiştir. Kod mimarisi, gelecekteki genişletmelere uygun şekilde modüler yapıda tasarlanmıştır.
 
 BabyCare-Kreş: Çocuklarımızın eğitimine teknolojik dokunuş.
