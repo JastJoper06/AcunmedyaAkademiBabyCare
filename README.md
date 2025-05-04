@@ -45,4 +45,8 @@ Kullanıcı deneyimini ön planda tutan arayüz:
 ![Ekran görüntüsü 2025-05-04 195450](https://github.com/user-attachments/assets/4a02e309-b1b8-4acc-a932-5de02f3d2afa)
 
 
+![Ekran görüntüsü 2025-05-04 195505](https://github.com/user-attachments/assets/55eb065a-d772-4e36-bf86-ab1dc6e4a082)
 
+![Ekran görüntüsü 2025-05-04 195514](https://github.com/user-attachments/assets/205f82d1-aa10-47bb-bbc7-b5fe32becde9)
+
+![Ekran görüntüsü 2025-05-04 195702](https://github.com/user-attachments/assets/6f02e2ce-67ab-4055-aba3-1abcb43a0b14)
