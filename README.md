@@ -1,4 +1,4 @@
-#BabyCare-Kreş Yönetim Sistemi👶🏻🎨 BabyCare- Kreş
+BabyCare-Kreş Yönetim Sistemi👶🏻🎨 BabyCare- Kreş
 
 Proje Hakkında
 BabyCare-Kreş, AkademiQ bünyesinde Murat Yücedağ koordinatörlüğünde Münire Çelikbilek tarafından verilen "C# ile Programlamaya Giriş" eğitimi kapsamında geliştirdiğim 3. projedir.
