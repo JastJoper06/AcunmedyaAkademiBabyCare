@@ -38,7 +38,7 @@ Kullanıcı deneyimini ön planda tutan arayüz:
 
 
 
-**ANA SAYFA**
+##ANA SAYFA
 
 
 
